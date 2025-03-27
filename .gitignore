@@ -1,0 +1,6 @@
+*.svn
+*~
+*.so
+CATKIN_IGNORE
+.vscode/
+*.swp
